@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<allscreens>
+  <StrokeType>Taci</StrokeType>
+  <anotherVariable>2</anotherVariable>
+  <screens>
+    
+    
+    
+    <screen screenID="1">
+      <screenFirstName>Symptom onset</screenFirstName>
+      <screenTime>08.20</screenTime>
+      <boxs>
+        <box boxID="1">
+          <box4Main>Bob is a 54 year old musician. One evening Bob went to bed, and the following morning woke up fine. Later while at breakfast with his wife Rita, around 8:20am he suddenly toppled over as his right leg gave way. Bob was unable to stop his fall with his right arm. Rita tried to speak to him. He found it very difficult to speak clearly, his speech was an incoherent mumbling.</box4Main>
+          <boxVariableOne>zzz</boxVariableOne>
+          <boxVariableTwo>Box 4</boxVariableTwo>
+        </box>
+        <box boxID="2">
+          <box2User>A stroke is a clinical syndrome characterised by rapidly developing clinical symptoms and/or signs of focal, and at times global (applied to patients in deep coma and those with subarachnoid haemorrhage), loss of cerebral function, with symptoms lasting more than 24 hours or leading to death, with no apparent cause other than that of vascular origin (Hatano 1976).</box2User>
+          <boxVariableOne>aaa</boxVariableOne>
+          <boxVariableTwo>Box 2</boxVariableTwo>
+        </box>
+      </boxs>
+    </screen>
+    
+    
+    
+    <screen screenID="2">
+      <screenFirstName>Recognition</screenFirstName>
+      <screenTime>08.23</screenTime>
+      <boxs>
+        <box boxID="3">
+          <box4Main>At 8.23 Rita helps Bob onto the chair.  She noticed that Bob didn’t seem to notice her when she was on his right hand side. She realised that the whole side of his body appeared paralysed. After a few seconds she recognised these signs from the FAST poster which she had seen at the surgery. Realising that Bob’s face and arms were weakened and had speech difficulties she realised it was time to phone 999.</box4Main>
+          <boxVariableOne>abc</boxVariableOne>
+          <boxVariableTwo>box 4</boxVariableTwo>
+        </box>
+        <box boxID="4">
+          <box2User>The symptoms of a transient ischaemic attack (TIA) are the same as for a stroke but only last from between a few minutes to a few hours, then completely disappear. However, never ignore a TIA as it is a serious warning sign that there is a problem with the blood supply to your brain.
+There is about a one in 10 chance that those who have a TIA will experience a full stroke during the four weeks following the TIA. If you have had a TIA, you should contact your GP, local hospital or out-of-hours service, as soon as possible.</box2User>
+          <boxVariableOne>def</boxVariableOne>
+          <boxVariableTwo>box 2</boxVariableTwo>
+        </box>
+      </boxs>
+    </screen>
+    
+    
+    
+    <screen screenID="3">
+      <screenFirstName>Dispatch</screenFirstName>
+      <screenTime>08.25</screenTime>
+      <boxs>
+        <box boxID="5">
+          <box4Main>At 08:25 Rita calls the 999, and tells the operator 'he can’t speak, and cannot get up, I think it’s a stroke'. An ambulance is immediately sent to the house, it arrived at 08:40. The paramedic crew asked Rita what had happened, she explained the story to the paramedics. The paramedics said they need to do a couple of tests to assess Bob.  They agreed with Rita that it sounded like a suspected stroke. They asked Bob if he could take some blood.</box4Main>
+          <boxVariableOne>ghi</boxVariableOne>
+          <boxVariableTwo>box 4</boxVariableTwo>
+        </box>
+        <box boxID="6">
+          <box2User>Substantial progress has been made with the development of stroke diagnostic tools for ambulance paramedics. Rapid assessment and triage by paramedics has achieved a consistent diagnostic accuracy of between 80% and 95%, with stroke assessment instruments such as the Cincinnati Pre-hospital Stroke Scale (CPSS) and the Los Angeles Pre-hospital Stroke Screen (LAPSS) in the USA, and the Face Arm Speech Test (FAST) in the UK.
+</box2User>
+          <boxVariableOne>jkl</boxVariableOne>
+          <boxVariableTwo>box 2</boxVariableTwo>
+        </box>
+      </boxs>
+    </screen>
+    
+    
+    
+    <screen screenID="4">
+      <screenFirstName>Initial assessment</screenFirstName>
+      <screenTime>08.50</screenTime>
+      <boxs>
+        <box boxID="7">
+          <box4Main>At 08:50 The Paramedic radioed: 'This 54 year-old Caucasian man appears to have suffered a stroke. His wife witnessed the development of unilateral right sided face, arm and leg weakness around 30 minutes ago. The patient is conscious, a GCS of 14, and a blood glucose reading of 4.4. We have an ETA with you in approximately 10 minutes, over'. On receiving the call, the A and E switchboard paged the stroke unit. Key details were recorded on the priority call form.</box4Main>
+          <boxVariableOne>xyz</boxVariableOne>
+          <boxVariableTwo>box 4</boxVariableTwo>
+        </box>
+         <box boxID="8">
+          <box2User>Skills and ability to: interpret thorough history, record third party information where possible, and assess mental capacity. 
+Communicate the: current event; risk of future vascular event; need for assessments/ investigations, interventions / treatments and their timeframes; rationale for treatment; and possible side effects of treatment; and to provide advice. 
+Perform basic neurological and physiological assessment.
+Perform ABC, pulse oximetry and blood glucose assessment and to act on abnormal findings. 
+Department of Health: Stroke Specific Education Framework (SSEF)  Urgent response: pre-hospital assessment and management</box2User>
+          <boxVariableOne>xyz</boxVariableOne>
+          <boxVariableTwo>box 4</boxVariableTwo>
+        </box>
+      </boxs>
+    </screen>
+    
+    
+    <screen screenID="5">
+      <screenFirstName>Delivery &amp;  admission</screenFirstName>
+      <screenTime>09.00</screenTime>
+      <boxs>
+        <box boxID="9">
+          <box4Main>At 09:00 Bob is taken to A and E and lead into a bay by the A and E team leader and transfered onto an A &amp;  E bed.  While the Paramedic hands over to the doctors the A &amp;  E Nurse attaches the blood oxygen monitor to Bob’s finger, she clips his finger for a glucose test.  The Stroke Registrar completes the admission pro-forma with the history from the Paramedic. The Senior House Office lifts his left arm, and asks “I’m going to take some blood from your arm  - is this okay?”</box4Main>
+          <boxVariableOne>xyz</boxVariableOne>
+          <boxVariableTwo>box 4</boxVariableTwo>
+        </box>
+         <box boxID="10">
+          <box2User>In patients with acute stroke, rapid intervention is crucial to maximise early treatment benefits. Recognition of Stroke in the Emergency Room (ROSIER) is crucial to clinical management.
+</box2User>
+          <boxVariableOne>xyz</boxVariableOne>
+          <boxVariableTwo>box 4</boxVariableTwo>
+        </box>
+      </boxs>
+    </screen>
+    
+    
+    <screen screenID="6">
+      <screenFirstName>Vital signs</screenFirstName>
+      <screenTime>09.03</screenTime>
+      <boxs>
+        <box boxID="11">
+          <box4Main>At 09:03 the A and E Nurse starts attaching leads to Bob's chest for an ECG. Printing off the trace, she hands it to the Stroke Registrar.  Another nurse arrives with labels with Bob's name and hospital identification numbers upon and gives them to the SHO. The SHO fills 5 vials with Bob's blood, and affixes the identification labels. Moving to the computer terminal, he selects the following tests for Bob : FBC, U &amp;  E's, CRP, Lipid, Glucose, Thyroid, Bone profile and Troponin.</box4Main>
+          <boxVariableOne>xyz</boxVariableOne>
+          <boxVariableTwo>box 4</boxVariableTwo>
+        </box>
+         <box boxID="12">
+          <box2User>Atrial fibrillation (AF) describes the rapid, irregular beating of the left atrium (upper chamber) of the heart. These rapid contractions of the heart are weaker than normal contractions, resulting in slow flow of blood in the atrium. The blood pools and becomes sluggish and can result in the formation of blood clots. If a clot leaves the heart and travels to the brain, it can cause a stroke by blocking the flow of blood through cerebral arteries.Some people with AF have no symptoms, but others will experience a fluttering feeling in the area of the chest above the heart, chest pain, lightheadness or fainting, shortness of breath, and fatigue. suggested by 'P' waves absent, irregularly irregular pulse</box2User>
+          <boxVariableOne>xyz</boxVariableOne>
+          <boxVariableTwo>box 4</boxVariableTwo>
+        </box>
+      </boxs>
+    </screen>
+    
+    
+    
+    <screen screenID="7">
+      <screenFirstName>ER assessment</screenFirstName>
+      <screenTime>09.09</screenTime>
+      <boxs>
+        <box boxID="13">
+          <box4Main>
+At 09:09 after looking at the trace and observing the vital sign monitor the Stroke Registrar comes to Rita and asks her about the events this morning, he focuses on the time and symptoms observed. He then asks about Bob’s medical history, medications diet, social history and smoking. He advises Rita that Bob will shortly be taken for a scan. He tells Rita that Bob’s blood have been taken and have been sent off for a blood test.</box4Main>
+          <boxVariableOne>xyz</boxVariableOne>
+          <boxVariableTwo>box 4</boxVariableTwo>
+        </box>
+         <box boxID="14">
+          <box2User>The nature of the complaint - clarify in your mind exactly the meaning of the terms that the patient or witnesses use when describing the event 
+The time course - try and understand the timing of the onset, how it progressed, stepwise, continuous or intermittent and then envisage the duration and frequency pattern.
+Hypothesis generating and testing - in addition to a vascular pathological process, consider also epileptic or migrainous causes. Look for associated problems to confirm or exclude other aetiologies.</box2User>
+          <boxVariableOne>xyz</boxVariableOne>
+          <boxVariableTwo>box 4</boxVariableTwo>
+        </box>
+      </boxs>
+    </screen>
+    
+    
+    <screen screenID="8">
+      <screenFirstName>Quiz</screenFirstName>
+      <screenTime>09.16</screenTime>
+      <boxs>
+        <box boxID="15">
+          <box4Main></box4Main>
+          <boxVariableOne>xyz</boxVariableOne>
+          <boxVariableTwo>box 4</boxVariableTwo>
+        </box>
+         <box boxID="16">
+          <box2User></box2User>
+          <boxVariableOne>xyz</boxVariableOne>
+          <boxVariableTwo>box 4</boxVariableTwo>
+        </box>
+      </boxs>
+    </screen>
+    
+    
+    <screen screenID="9">
+      <screenFirstName>Imaging results </screenFirstName>
+      <screenTime>09.18</screenTime>
+      <boxs>
+        <box boxID="17">
+          <box4Main></box4Main>
+          <boxVariableOne>xyz</boxVariableOne>
+          <boxVariableTwo>box 4</boxVariableTwo>
+        </box>
+         <box boxID="18">
+          <box2User>
+</box2User>
+          <boxVariableOne>xyz</boxVariableOne>
+          <boxVariableTwo>box 4</boxVariableTwo>
+        </box>
+      </boxs>
+    </screen>  
+    
+
+  
+    <screen screenID="10">
+      <screenFirstName>Biochemistry</screenFirstName>
+      <screenTime>09.27</screenTime>
+      <boxs>
+        <box boxID="19">
+          <box4Main>At 09:27 In order to assess for thrombolysis a number of exclusion criteria had to be confirmed. The following tests are performed: PLASMA GLUCOSE; PLASMA CHOLESTEROL / LIPID PROFILE,  FBC; UREA/ELECTROLYTES; COAGULATION PROFILE.</box4Main>
+          <boxVariableOne>xyz</boxVariableOne>
+          <boxVariableTwo>box 4</boxVariableTwo>
+        </box>
+         <box boxID="20">
+          <box2User>Radiological contrainducations. Any evidence of bleeding on the pre-treatment head CT. Intracranial neoplasm, untreated arteriovenous malformation (AVM) or aneurysm that is at risk of bleeding on pre-treatment head CT.
+Significant hypodensity or mass effect on pre-treatment head CT.</box2User>
+          <boxVariableOne>xyz</boxVariableOne>
+          <boxVariableTwo>box 4</boxVariableTwo>
+        </box>
+      </boxs>
+    </screen>  
+    
+  
+  
+    <screen screenID="11">
+      <screenFirstName>Working diagnosis</screenFirstName>
+      <screenTime>09.29</screenTime>
+      <boxs>
+        <box boxID="21">
+          <box4Main>At 09:29 The investigations are completed, and the Stroke Registrar makes a working diagnosis of a cardio-embolic left middle cerebral artery territory ischaemic stroke. There are no contraindications for thrombolysis and the nurse prepares the dose. A door to needle time of under 30 minutes is achieved as the thrombolysis treatment commences.
+The Stroke Consultant administers a 10% bolus delivered over 2 minutes, followed by the infusion.</box4Main>
+          <boxVariableOne>xyz</boxVariableOne>
+          <boxVariableTwo>box 4</boxVariableTwo>
+        </box>
+         <box boxID="22">
+          <box2User>Radiological contraindications. Any evidence of bleeding on the pre-treatment head CT. Intracranial neoplasm, untreated arteriovenous malformation (AVM) or aneurysm that is at risk of bleeding on pre-treatment head CT.
+Significant hypodensity or  mass effect on pre-treatment head CT.</box2User>
+          <boxVariableOne>xyz</boxVariableOne>
+          <boxVariableTwo>box 4</boxVariableTwo>
+        </box>
+      </boxs>
+    </screen>  
+    
+
+    <screen screenID="12">
+      <screenFirstName>Pathophysiology</screenFirstName>
+      <screenTime>09.30</screenTime>
+      <boxs>
+        <box boxID="24">
+          <box4Main>Anatomy: Left MCA infarct Pathophysiology: cardioembolic arising from atrial fibrillation; Damaged region of brain (losing 1.9m cells/minute) indicated also potential salvation of penumbra through collateral supply . The treatment available includes: (a) endovascular intervention(b) thrombolysis.</box4Main>
+          <boxVariableOne>xyz</boxVariableOne>
+          <boxVariableTwo>box 4</boxVariableTwo>
+        </box>
+         <box boxID="25">
+          <box2User>THE MCA, ICA AND ACA. The internal carotid arteries (ICA) enter the skull through the carotid canal within the petrous bone and form an S shaped curve first within the temporal petrous bone then the cavernous sinus.  Within the cavernous sinus the ICA form the carotid siphon because of the shape. The ICAs then penetrate the dura and from their supraclinoid portions give off anterior choroidal and posterior communicating arteries. The ICA bifurcates into the anterior cerebral arteries which course medially and the middle cerebral arteries which course laterally. The carotid artery territories are referred to as the anterior circulation, while the vertebral and basilar arteries  and their branches are termed posterior circulation. </box2User>
+          <boxVariableOne>xyz</boxVariableOne>
+          <boxVariableTwo>box 4</boxVariableTwo>
+        </box>
+      </boxs>
+    </screen>  
+
+
+    <screen screenID="13">
+      <screenFirstName>Summary</screenFirstName>
+      <screenTime></screenTime>
+      <boxs>
+        <box boxID="26">
+          <box4Main>Anatomy: Left MCA infarct Pathophysiology: cardioembolic arising from atrial fibrillation; Damaged region of brain (losing 1.9m cells/minute) indicated also potential salvation of penumbra through collateral supply . The treatment available includes: (a) endovascular intervention(b) thrombolysis.</box4Main>
+          <boxVariableOne>xyz</boxVariableOne>
+          <boxVariableTwo>box 4</boxVariableTwo>
+        </box>
+         <box boxID="27">
+          <box2User>The clot would travel from the left atrium down into the left ventricle and then out of the heart into the aorta. It would then leave the aortic arch and ascend the left common carotid artery. From there it would go into the left internal carotid artery and then enter the left middle cerebral artery in the brain where it would occlude the left middle cerebral artery very close to its origin before any branches are given off hence the occlusion of blood supply to the left MCA territory.</box2User>
+          <boxVariableOne>xyz</boxVariableOne>
+          <boxVariableTwo>box 4</boxVariableTwo>
+        </box>
+      </boxs>
+    </screen>  
+    
+    
+    
+  </screens>
+</allscreens>
