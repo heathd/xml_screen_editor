@@ -10,6 +10,7 @@
 <form method="post">
   <input type="hidden" name="screen_id" value="<?php $this->eprint($_GET['screen_id']) ?>">
 
+  <input type="hidden" name="utf8" value="&#x2713;" > 
   <input type="submit" value="Save changes">
   <a href="index.php">Cancel</a>
 
